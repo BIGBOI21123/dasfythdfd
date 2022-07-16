@@ -1,0 +1,18 @@
+.heading
+{
+    font-size: 40px;
+}
+
+.link
+{
+    float: right;
+    color: white;
+    margin-right: 50px;
+    font-size: large;
+}
+
+#status
+{
+    margin-left: 60px;
+    font-size: 25px;
+}
